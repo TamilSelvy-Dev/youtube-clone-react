@@ -59,6 +59,9 @@ function Navbar() {
           <NotificationIcon className="w-5 h-5" />
         </div>
 
+
+        
+
         {/* User avatar */}
         {/* User Avatar */}
         <div className="w-8 h-8 rounded-full bg-blue-600 flex items-center justify-center text-white font-medium cursor-pointer">
