@@ -54,6 +54,9 @@ function Navbar() {
           <span className="text-sm font-medium leading-none">Create</span>
         </div>
 
+
+        
+
         {/* Notifications */}
         <div className="p-2 rounded-full hover:bg-gray-100 cursor-pointer">
           <NotificationIcon className="w-5 h-5" />
