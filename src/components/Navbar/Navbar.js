@@ -47,7 +47,7 @@ function Navbar() {
 
       {/* RIGHT */}
       <div className="flex items-center gap-4">
-        {/* Create */}
+      
         {/* Create */}
         <div className="flex items-center h-9 px-3 bg-gray-100 rounded-full cursor-pointer hover:bg-gray-200">
           <PlusIcon className="w-4 h-4 mr-1" />
